@@ -1,52 +1,54 @@
-<h1 align="center">
-  Melihcan Akın
-</h1>
-<h3 align="center">
-  Founder & Software Architect at <a href="https://github.com/Smart-Yazilim">@Smart-Yazilim</a>
-</h3>
 <p align="center">
-  <i>"Karmaşık iş zorluklarını, stratejik teknoloji çözümlerine dönüştürüyoruz."</i>
+  <img src="https://github.com/Smart-Yazilim/.github/blob/main/logo.png" alt="Smart Yazılım Logosu" width="400"/>
+</p>
+
+<h1 align="center">Smart-Yazilim</h1>
+<h3 align="center">Stratejik Teknoloji ve Mühendislik Çözümleri</h3>
+
+<p align="center">
+  <i>"İşletmenizin en karmaşık zorluklarını, yüksek mühendislik çözümlerine dönüştürüyoruz."</i>
 </p>
 
 ---
 
-<p align="left">
-  Merhaba, ben Melihcan. <b>@Smart-Yazilim</b>'ın kurucusu olarak, işletmelerin dijital dönüşüm yolculuklarında stratejik bir teknoloji ortağı olarak görev alıyorum. 
-</p>
-
-<p align="left">
-  Temel odağım, sadece kod yazmak değil; ölçeklenebilir, güvenli ve yüksek performanslı kurumsal mimariler tasarlayarak iş hedeflerinize hizmet eden kalıcı mühendislik çözümleri üretmektir.
+<p align="center">
+  <b>Smart-Yazilim</b>, işletmelerin dijital dönüşüm hedeflerine ulaşmaları için tasarlanmış kurumsal bir teknoloji partneridir.<br>
+  Yenilikçi teknolojileri, stratejik vizyonla birleştirerek ölçeklenebilir, güvenli ve yüksek performanslı yazılım mimarileri inşa ediyoruz.
 </p>
 
 <br>
 
-### 🏛️ Stratejik Odak Alanları ve Çözümler
-* <b>Kurumsal Yazılım Mimarisi:</b> İşletmenizin gelecekteki büyümesini destekleyecek sağlam ve esnek sistem temelleri tasarlamak.
-* <b>Dijital Dönüşüm Stratejileri:</b> Mevcut süreçlerinizi analiz ederek, verimliliği artıran ve rekabet avantajı sağlayan teknolojileri entegre etmek.
-* <b>Teknoloji Liderliği & Danışmanlık:</b> Doğru teknoloji yatırımlarını yapmanız için teknik vizyon ve yol haritası sunmak.
-* <b>Yüksek Mühendislik Çözümleri:</b> Standardın ötesine geçen, karmaşık ve özel gereksinimleriniz için "terzi işi" (bespoke) yazılımlar geliştirmek.
+## 🏛️ Kurumsal Çözüm Alanlarımız
+
+Bizler, "terzi işi" (bespoke) yazılım mühendisliğine odaklanıyoruz. Standart çözümlerin yetersiz kaldığı yerde, sizin için özel olarak tasarlanmış sistemler geliştiriyoruz:
+
+* <b>Stratejik Teknoloji Danışmanlığı:</b> İş hedeflerinizi analiz ediyor ve rekabet avantajı sağlayacak teknolojik yol haritanızı çiziyoruz.
+* <b>Kurumsal Yazılım Mimarisi:</b> Gelecekteki büyümeyi destekleyecek, esnek ve sağlam (robust) sistem altyapıları tasarlıyoruz.
+* <b>Özel Çözüm Geliştirme:</b> Karmaşık iş süreçlerinize özel, yüksek performanslı ve güvenli uygulamalar (CRM, ERP, otomasyon) geliştiriyoruz.
+* <b>Sistem Modernizasyonu:</b> Eski (legacy) sistemlerinizi analiz ediyor, güncel teknolojilerle modernize ederek verimliliğimizi artırıyoruz.
 
 <br>
 
-### 💻 Teknoloji Felsefem
-Kullandığımız araçlar bir amaçtır, hedef değil. Felsefemiz; temiz, sürdürülebilir ve test edilebilir kod temelleri üzerine kurulu, uzun ömürlü sistemler inşa etmektir.
-<p align="left">
-  <img src="https://img.shields.io/badge/System%20Design-STRATEGY-00599C?style=for-the-badge&logo=icloud" alt="System Design"/>
-  <img src="https://img.shields.io/badge/Architecture-ENGINEERING-blueviolet?style=for-the-badge&logo=git" alt="Architecture"/>
-  <img src="https://img.shields.io/badge/Security-SECURE-crimson?style=for-the-badge&logo=shield" alt="Security"/>
-  <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white" alt="Kotlin"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
-</p>
+## 💡 Mühendislik Felsefemiz
+
+Başarımız, sadece teslim ettiğimiz kodda değil, o kodun arkasındaki mühendislik disiplininde yatar.
+
+* <b>Kalite Odaklılık:</b> Her satır kod, sürdürülebilirlik ve performans standartlarına göre yazılır.
+* <b>Güvenlik İlk Sırada (Security-First):</b> Çözümlerimizi, en başından itibaren kurumsal güvenlik protokollerini merkeze alarak tasarlarız.
+* <b>Uzun Vadeli Partnerlik:</b> Sadece proje teslim etmiyor, teknolojinizin sizinle birlikte büyümesi için uzun vadeli destek sağlıyoruz.
 
 <br>
 
-### 📬 Stratejik İş Birliği İçin İletişim
-<p align="left">
-  İşletmenizin teknolojik zorluklarını ve hedeflerini görüşmek üzere benimle iletişime geçebilirsiniz.
-  <br><br>
+## 📬 Stratejik İş Birliği İçin İletişime Geçin
+
+İşletmenizin teknolojik hedeflerini bir sonraki seviyeye taşımak için bizimle temasa geçin.
+
+<p align="center">
   <a href="https://www.smartyazilim.com.tr" target="_blank">
-    <img src="https://img.shields.io/badge/Smart%20Yazılım-Kurumsal%20Site-00599C?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0id2hpdGUiPjxwYXRoIGQ9Ik0xMiAyQzYuNDggMiAyIDYuNDggMiAxMnM0LjQ4IDEwIDEwIDEwIDEwLTQuNDggMTAtMTBTMTcuNTIgMiAxMiAyem0wIDE4Yy00LjQxIDAtOC0zLjU5LTgtOHMzLjU5LTggOC04IDggMy51OSA4IDgtMy41OSA4LTggOHptLTUuNS04SDEwdi0xLjVIMy41di0xaDEzdi0xSDEwVjhoMS41VjYuNUg4LjVWOGg1LjVWMTAuNUgxMFYxMkg4LjVWMTMuNUgxMFYxMnpNMTEuNSAxNy41bDEuNS0xLjVWMTNIMTFWMTQuNUgxMy41VjE2TDE1IDE3LjVoLTEuNVYxNkgxMy41VjE3LjVIMTEuNXoiLz48L3N2Zz4=" alt="Kurumsal Web Sitesi"/>
+    <img src="https://img.shields.io/badge/Web%20Sitesi-smartyazilim.com.tr-00599C?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0id2hpdGUiPjxwYXRoIGQ9Ik0xMiAyQzYuNDggMiAyIDYuNDggMiAxMnM0LjQ4IDEwIDEwIDEwIDEwLTQuNDggMTAtMTBTMTcuNTIgMiAxMiAyem0wIDE4Yy00LjQxIDAtOC0zLjU5LTgtOHMzLjU5LTggOC04IDggMy51OSA4IDgtMy41OSA4LTggOHptLTUuNS04SDEwdi0xLjVIMy41di0xaDEzdi0xSDEwVjhoMS41VjYuNUg4LjVWOGg1LjVWMTAuNUgxMFYxMkg4LjVWMTMuNUgxMFYxMnpNMTEuNSAxNy45bDEuNS0xLjVWMTNIMTFWMTQuNUgxMy41VjE2TDE1IDE3LjVoLTEuNVYxNkgxMy41VjE3LjVIMTEuNXoiLz48L3N2Zz4=" alt="Kurumsal Web Sitesi"/>
   </a>
-</a href="mailto:info@smartyazilim.com.tr">
-    </a>
+  &nbsp;
+  <a href="mailto:info@smartyazilim.com.tr">
+    <img src="https://img.shields.io/badge/Email-info@smartyazilim.com.tr-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
 </p>
